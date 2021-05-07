@@ -1,2 +1,2 @@
-# chatapp
-Chat application implemented in Vanilla JS + Firebase
+# chat-app
+Chat app implemented using Vanilla JS + Firebase
